@@ -179,7 +179,7 @@ This is a learning project, and building it covered a lot of ground:
 
 **Aditya Raj**, full stack developer (MERN, FastAPI, AngularJS) working toward a career as a software development engineer.
 
-[GitHub](https://github.com/rajaditya0806) · [LinkedIn](https://linkedin.com/in/YOUR-ID)
+[GitHub](https://github.com/rajaditya0806) · [LinkedIn](https://www.linkedin.com/in/aditya-raj-663454362)
 
 ---
 
