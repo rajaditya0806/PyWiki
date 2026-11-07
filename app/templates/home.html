@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <h1>Welcome to PyWiki</h1>
+  <p class="lead">Everything Python, in one place.</p>
+
+  <div class="cards">
+    {% for category, articles in get_categories().items() %}
+      <section class="card">
+        <h2>{{ category | label }}</h2>
+        <p>{{ articles | length }} article{{ "s" if articles | length != 1 }}</p>
+        <ul>
+          {% for a in articles[:4] %}
+            <li><a href="/wiki/{{ category }}/{{ a.slug }}">{{ a.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </section>
+    {% endfor %}
+  </div>
+{% endblock %}

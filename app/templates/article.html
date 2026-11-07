@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="article-wrap">
+  <article class="article">
+    {{ content | safe }}
+  </article>
+
+  {% if toc %}
+  <aside class="toc-box">
+    <h4>On this page</h4>
+    {{ toc | safe }}
+  </aside>
+  {% endif %}
+</div>
+{% endblock %}

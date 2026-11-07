@@ -1,0 +1,17 @@
+# Virtual environment (recreated from requirements.txt)
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Visitors' emails from the contact form (private data)
+messages.jsonl
+
+# Secrets, if you ever add them
+.env
+
+# Editor and OS clutter
+.vscode/
+.DS_Store
+Thumbs.db
