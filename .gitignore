@@ -15,3 +15,5 @@ messages.jsonl
 .vscode/
 .DS_Store
 Thumbs.db
+
+contact.js
