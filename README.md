@@ -78,8 +78,8 @@ python-website/
 **1. Clone and enter the project**
 
 ```bash
-git clone https://github.com/rajaditya0806/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/rajaditya0806/PyWiki
+cd https://github.com/rajaditya0806/PyWiki
 ```
 
 **2. Create and activate a virtual environment**
