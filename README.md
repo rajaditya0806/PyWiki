@@ -79,7 +79,7 @@ python-website/
 
 ```bash
 git clone https://github.com/rajaditya0806/PyWiki
-cd https://github.com/rajaditya0806/PyWiki
+cd PyWiki
 ```
 
 **2. Create and activate a virtual environment**
