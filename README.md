@@ -78,8 +78,8 @@ python-website/
 **1. Clone and enter the project**
 
 ```bash
-git clone https://github.com/rajaditya0806/PyWiki
-cd PyWiki
+git clone https://github.com/rajaditya0806/YOUR-REPO.git
+cd YOUR-REPO
 ```
 
 **2. Create and activate a virtual environment**
@@ -179,7 +179,7 @@ This is a learning project, and building it covered a lot of ground:
 
 **Aditya Raj**, full stack developer (MERN, FastAPI, AngularJS) working toward a career as a software development engineer.
 
-[GitHub](https://github.com/rajaditya0806) · [LinkedIn](https://www.linkedin.com/in/aditya-raj-663454362)
+[GitHub](https://github.com/rajaditya0806) · [LinkedIn](https://linkedin.com/in/YOUR-ID)
 
 ---
 
