@@ -8,19 +8,6 @@
 
 ---
 
-## Table of contents
-
-- [How to use this guide](#how-to-use-this-guide)
-- [Level 0 – Prerequisites and setup](#level-0--prerequisites-and-setup)
-- [Level 1 – Absolute basics](#level-1--absolute-basics)
-- [Level 2 – Core concepts](#level-2--core-concepts)
-- [Level 3 – Intermediate numerical computing](#level-3--intermediate-numerical-computing)
-- [Level 4 – Advanced techniques](#level-4--advanced-techniques)
-- [Level 5 – Professional and production practices](#level-5--professional-and-production-practices)
-- [NumPy quick reference](#numpy-quick-reference)
-- [Glossary](#glossary)
-
----
 
 ## How to use this guide
 
