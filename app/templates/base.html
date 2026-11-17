@@ -10,6 +10,7 @@
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐍</text></svg>">
   <script src="/static/contact.js" defer></script>
   <script src="/static/menu.js" defer></script>
+  <script src="/static/chat.js" defer></script>
 </head>
 <body>
   <header class="topbar">
@@ -65,5 +66,15 @@
   </div>
   <p class="copyright">© 2026 PyWiki · Built with FastAPI</p>
 </footer>
+<button id="chat-toggle" class="chat-toggle" aria-label="Ask the assistant">💬</button>
+
+<section id="chat" class="chat" hidden>
+  <header>Ask PyWiki <button id="chat-close" aria-label="Close">×</button></header>
+  <div id="chat-log" class="chat-log"></div>
+  <form id="chat-form" class="chat-form">
+    <input id="chat-input" placeholder="Ask about Python…" maxlength="500" autocomplete="off" required>
+    <button type="submit">Send</button>
+  </form>
+</section>
 </body>
 </html>
